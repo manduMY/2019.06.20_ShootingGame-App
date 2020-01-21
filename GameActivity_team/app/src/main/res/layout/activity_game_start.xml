@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GameStartActivity"
+    android:orientation="vertical"
+    android:background="@drawable/gamestartimage">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        app:srcCompat="@drawable/mainlogo2"
+        android:layout_marginTop="50dp"/>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="366dp"
+        android:layout_height="128dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/mainlogo" />
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="START" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="SETTING"
+
+        />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+
+        android:layout_gravity="center"
+
+        android:layout_marginTop="10dp"
+        android:text="EXIT" />
+
+
+
+
+</LinearLayout>
