@@ -14,10 +14,6 @@ Java ShootingGame
 샘플 화면
 ---
 
-| 유저 로그인 | 관리자 로그인 |
+| 플레이 영상 | 플레이 영상2 |
 |:----------------------------------------:|:-----------------------------------------:|
 |<img src="markdown/img/shooting.gif" width=500 />|<img src="markdown/img/shooting2.gif" width=500 />|
-
-| 전체 채팅 or 1:1 채팅 |
-|:----------------------------------------:|
-|<img src="markdown/img/shooting.gif" width=1000 />|
