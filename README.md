@@ -7,8 +7,6 @@ Java ShootingGame
 
 안드로이드 슈팅게임
 
-> Readme 작성중...
-
 <br/>
 
 게임 구성
